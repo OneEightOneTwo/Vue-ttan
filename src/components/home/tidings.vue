@@ -82,7 +82,7 @@ h1 {
   height: 0.5rem;
   text-align: center;
 }
-.nav li {
+.news .nav li {
   float: left;
   width: 48%;
   border-bottom: 0.02rem solid #c03e1e;
