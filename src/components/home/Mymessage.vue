@@ -43,12 +43,12 @@ export default {};
     overflow: hidden;
 }
 .mymessage ul li:nth-child(1) span {
-  margin-right: 3px;
+  margin-right: .03rem;
   color: #fff;
   background: rgb(58, 92, 248);
-  border-radius: 5px;
+  border-radius: .05rem;
   text-align: center;
-  font-size: 14px;
+  font-size: .14rem;
   padding: .016rem 0.05rem
 }
 .head_photo {

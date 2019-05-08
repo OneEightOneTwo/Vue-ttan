@@ -40,7 +40,8 @@ export default {
     }
   },methods:{
     login(){
-    
+     
+          this.$router.push({path:'login'})
     }
   }
 };
@@ -57,9 +58,9 @@ export default {
 }
  .el-carousel__item h3 {
     color: #475669;
-    font-size: 14px;
+    font-size: .14rem;
     opacity: 0.75;
-    line-height: 150px;
+    line-height: 1.5rem;
     margin: 0;
   }
 

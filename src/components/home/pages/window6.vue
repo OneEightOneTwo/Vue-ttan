@@ -4,7 +4,7 @@
         <div class="put_bj" @click="bj_out"></div>
         <div class="put_in_window">
             <img :src="vipurls" alt="">
-            <p style="font-size:19px;font-weight:bolder" v-text="vipname">身份标识！</p>
+            <p style="font-size:.19rem;font-weight:bolder" v-text="vipname">身份标识！</p>
             <p v-text="viptitle"></p>
             <div style="color:#fff;background:#e61f09">立即购买</div>
             <div style="color:#ccc;background:#fff" @click="bj_out2">知道了</div>

@@ -43,7 +43,7 @@
                 </ul>
               </li>
               <li class="vip2" style="display:none">
-                <div style="padding:20px">
+                <div style="padding:.20rem">
                     <img src="../../assets/vip5.png" alt="" style="float:left;width:.5rem;height:.5rem; margin-right:.15rem">
                     <p style="font-size:.16rem;color:black;font-weight:bolder;margin:.05rem 0">查看谁喜欢我</p>
                     <p style="font-size:.14rem;color:#ccc">TA喜欢了我？右划立即配对！</p>
@@ -52,7 +52,7 @@
                 <chacao>获取查看谁喜欢我</chacao>
               </li>
               <li class="vip2" style="display:none">
-                <div style="padding:.2rem 0 0 .rem">
+                <div style="padding:.2rem 0 0 .2rem">
                     <img src="../../assets/shandian.png" alt="" style="float:left;width:.5rem;height:.5rem; margin-right:.15rem">
                     <p style="font-size:.16rem;color:black;font-weight:bolder;margin:.05rem 0">超级曝光</p>
                     <p style="font-size:.14rem;color:#ccc">匹配利器！30分钟内10倍的人优先看到你！</p>

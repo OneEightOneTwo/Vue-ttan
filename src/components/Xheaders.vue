@@ -2,7 +2,7 @@
     <header>  
         <div class="leftIcon" @click="outnav"/>
         <div class="title" v-text="titless">探探</div>
-        <div class="rightIcon" :style="{'background-image': `url(${urls})`}"/>
+        <div class="rightIcon" :style="{'background-image': `url(${urls})`}" @click="Right"/>
     </header> 
 </template>
 <script>
@@ -25,6 +25,9 @@ export default {
     outnav(){
       $(".homes").animate({ left: "80%" }, 300);
       $(".nav").animate({ left: "0" }, 300);
+    },
+    Right(){
+      this.$router.push({path:'tidings'})
     }
   }
 };

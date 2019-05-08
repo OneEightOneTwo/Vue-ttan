@@ -5,30 +5,30 @@
             <div class="pop_up" @click="pop_up2"></div>
             <div class="pop_up_window">
                 <img src="../../assets/huli2.jpeg" alt="">
-                <p style="font-size:18px;font-weight:bolder;color:black;margin:30px 0 15px 0">已完成认证</p>
-                <p style="font-size:14px;color:#fff;margin-bottom:10px">恭喜，你已完成真实头像认证</p>
+                <p style="font-size:.18rem;font-weight:bolder;color:black;margin:.30rem 0 .15rem 0">已完成认证</p>
+                <p style="font-size:.14rem;color:#fff;margin-bottom:.10rem">恭喜，你已完成真实头像认证</p>
                 <div @click="windowout">好的</div>
             </div>       
         </div>       
         <div class="back_box" @click="windows">
             <div class="renzheng_box">
-                <div style="text-align:center;margin-top:15px">
-                    <p style="font-size:18px;font-weight: bolder;">真实头像认证</p>
-                    <p style="font-size:14px;color:#a5a4a4">大幅提高配对成功率，享受专属特权</p>
+                <div style="text-align:center;margin-top:.15rem">
+                    <p style="font-size:.18rem;font-weight: bolder;">真实头像认证</p>
+                    <p style="font-size:.14rem;color:#a5a4a4">大幅提高配对成功率，享受专属特权</p>
                 </div>
                 <div class="box_lis">
                     <ul>
                         <li>
                             <div><img src="../../assets/V.png" alt=""></div>
-                            <p style="font-size:14px;color:#a5a4a4;margin-top:5px">认证标识</p>
+                            <p style="font-size:.14rem;color:#a5a4a4;margin-top:.05rem">认证标识</p>
                         </li>
                         <li>
                             <div><img src="../../assets/aixin.png" alt=""></div>
-                            <p style="font-size:14px;color:#a5a4a4;margin-top:5px">更多喜欢次数</p>
+                            <p style="font-size:.14rem;color:#a5a4a4;margin-top:.05rem">更多喜欢次数</p>
                         </li>
                         <li>
                             <div><img src="../../assets/zan.png" alt=""></div>
-                            <p style="font-size:14px;color:#a5a4a4;margin-top:5px">优先推荐</p>
+                            <p style="font-size:.14rem;color:#a5a4a4;margin-top:.05rem">优先推荐</p>
                         </li>
                     </ul>
                 </div>
@@ -144,7 +144,7 @@ export default {
   text-align: center;
 }
 .pop_up_window div {
-  font-size: 14px;
+  font-size: .14rem;
   font-weight: bolder;
   color: #fff;
   margin:0.32rem 0.15rem 0.15rem 0.15rem;

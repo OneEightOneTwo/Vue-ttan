@@ -4,13 +4,13 @@
             <div></div> 
             <img src="../../assets/huli.jpeg" alt="">                  
        </div>
-       <p style="font-size:18px;font-weight:bolder;margin:15px">喜欢Ta，不敢讲？</p>
+       <p style="font-size:.18rem;font-weight:bolder;margin:.15rem">喜欢Ta，不敢讲？</p>
        <p>暗恋表白帮你试探Ta!</p>
-       <p style="margin:8px">请在下列联系人中勾选</p>
+       <p style="margin:.08rem">请在下列联系人中勾选</p>
         <div class="book">
             <ul>
                 <li>
-                    <p style="font-weight:bolder;margin:15px 0 15px 10PX;color:#e61f09">A</p>
+                    <p style="font-weight:bolder;margin:.15rem 0 .15rem .10rem;color:#e61f09">A</p>
                     <div>
                         <input type="checkbox">
                         <span>小明</span>
@@ -25,7 +25,7 @@
                     </div>
                 </li>
                 <li>
-                    <p style="font-weight:bolder;margin:15px 0 15px 10PX;color:#e61f09">B</p>
+                    <p style="font-weight:bolder;margin:.15rem 0 .15rem .10rem;color:#e61f09">B</p>
                     <div>
                         <input type="checkbox">
                         <span>老王</span>
@@ -84,12 +84,12 @@ export default {
 .book ul li{
     text-align: left;
     width: 100%;
-    border-top: 1px solid #ccc;
+    border-top: .001rem solid #ccc;
     margin-top: 0.2rem
 }
 .book ul li div{
     margin: 0.2rem 0;
-    line-height: 28px
+    line-height: .28rem
 }
 .book ul li div input{
     width: 0.16rem;

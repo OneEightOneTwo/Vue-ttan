@@ -1,142 +1,28 @@
 <template>
   <div>
-    <header class="c_header">
+    <!-- <header class="c_header">
       <div class="c_leftIcon"></div>
       <div class="title">
         <span></span>探探小助手
         <slot></slot>
       </div>
       <div class="c_rightIcon"></div>
-    </header>
+    </header> -->
     <!-- 内容 -->
-    <div class="c_content">
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID 马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
-      </dl>
-      <dl>
-        <dt></dt>
-        <dd>教育局欧普峰哥uu还会忽悠非故意如何摧毁提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法</dd>
+    <div class="c_content"  >
+      <dl v-for="(item,idx) in c_main" :key="idx">
+        <template v-if="item.statu == 0">
+          <div>
+            <dt></dt>        
+            <dd >{{item.xinxi}}</dd>
+          </div>
+        </template>
+        <template v-if="item.statu == 1">
+            <div>
+              <dd >{{item.xinxi}}</dd>
+              <dt></dt>   
+            </div>
+          </template>
       </dl>
     </div>
     <!-- 输入框 -->
@@ -144,17 +30,85 @@
       <i class="adds"></i>
       <i class="expression"></i>
       <el-input placeholder="请输入内容" size="small" style="width: 2.6rem" v-model="input" clearable></el-input>
-      <el-button type="danger" size="mini" class="send_s">发送</el-button>
+      <el-button type="danger" size="mini" class="send_s" @click="send">发送</el-button>
     </div>
   </div>
 </template>
 <script>
 export default {
-  data() {
-    return {
-      input: ""
-    };
+ 
+  data(){
+   return{
+    input: "",
+      c_main:
+      [{
+       "xinxi":"教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法",
+        statu: 0
+      },
+      {
+        "xinxi":"个何瑞团体偶家提偶回家云机房监控车是黄齑淡饭大护法规范地方就分工会儿歌日合格发的福利时刻考虑金风科技就减肥一诶瑞吉欧防盗门",
+        statu: 0
+      },
+      {
+        "xinxi":"大半年及产能化发一份给我进口量纷纷大幅符合福我货到付款抵抗力批号发货",
+        statu: 0
+      },
+      {
+        "xinxi":"额问题会恢复对方是你大你就如同仁堂呵呵他浮动我就欧舒丹好",
+        statu: 0
+      },
+      {
+        "xinxi":"额问题会恢复对方是你大你就如同仁堂呵呵他浮动我就欧舒丹好",
+        statu: 0
+      },
+      {
+        "xinxi":"额问题会恢复对方是你大你就如同仁堂呵呵他浮动我就欧舒丹好",
+        statu: 0
+      },
+      {
+        "xinxi":"额问题会恢复对方是你大你就如同仁堂呵呵他浮动我就欧舒丹好",
+        statu: 0
+      },
+      {
+        "xinxi":"额问题会恢复对方是你大你就如同仁堂呵呵他浮动我就欧舒丹好",
+        statu: 0
+      },
+      {
+        "xinxi":"额问题会恢复对方是你大你就如同仁堂呵呵他浮动我就欧舒丹好",
+        statu: 0
+      },{
+       "xinxi":"教育局欧普峰哥uu还会忽悠非故意如何摧毁热身份和方法和瑞士和绯红积分回到家附近佛ID马路口级jdfeyuicy8空苦咖啡路口见公婆提交个人是的发个V大夫好评多人怕恐怕可靠的皮肤看到佛牌大V扣的放方法",
+       statu: 0
+      },
+      {
+        "xinxi":"个何瑞团体偶家提偶回家云机房监控车是黄齑淡饭大护法规范地方就分工会儿歌日合格发的福利时刻考虑金风科技就减肥一诶瑞吉欧防盗门",
+        statu: 0
+      },
+      {
+        "xinxi":"大半年及产能化发一份给我进口量纷纷大幅符合福我货到付款抵抗力批号发货",
+        statu: 0
+      },
+    ]
+   }
+     
+    
+  },
+  methods:{
+    send(){
+      this.c_main.push({
+        xinxi: this.input,
+        statu: 1
+      })
+      // console.log(this.input);
+      // console.log(this.con);
+      // c_main.push(this.input);
+    // this.con.push(`<dl> 
+    //     <dt>挺好听的和东方红东方<dt>
+    //     <dl>`),
+      this.input=""
+    }
   }
+  
 };
 </script>
 <style scoped>
@@ -206,10 +160,15 @@ export default {
 .c_content dl {
   display: flex;
   z-index: 100;
-  padding-top: 0.1rem;
-  padding-right: 0.1rem;
+ 
+  padding: 0.1rem 0.1rem  0 0.1rem;
+
+  margin: 0 .2rem 0 0;
 }
-.c_content dl dt {
+.c_content dl div{
+  display: flex;
+}
+.c_content dl div dt {
   background: url(../../assets/test.png) no-repeat center;
   height: 0.4rem;
   width: 0.4rem;
@@ -217,12 +176,14 @@ export default {
   background-size: contain;
   flex: 1;
 }
-.c_content dl dd {
+
+.c_content dl div dd {
   flex: 6;
   background: #f1f1f1;
   box-shadow: 0.01rem 0.001rem 0.02rem #af9c9c;
   border-radius: 0.009rem;
   color: black;
+  width: 3rem;
 }
 .c_send {
   border-radius: 0.07rem;

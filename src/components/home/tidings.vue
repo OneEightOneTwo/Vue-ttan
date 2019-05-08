@@ -14,7 +14,7 @@
               <dd>查看我喜欢的</dd>
               <p>曾经对眼的？划过就能收藏喔</p>
             </dl>
-            <dl class="like">
+            <dl class="like" @click="chat">
               <dt></dt>
               <dd>探探小助手</dd>
               <p>月下流光，你最近一共收到3个妹子的喜欢</p>
@@ -37,6 +37,11 @@
 
 <script>
 export default {
+  methods:{
+    chat(){
+      this.$router.push({path:'chatroom'})
+    }
+  }
 };
 </script>
 <style >
